@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4395833333333333" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/drawable/custom_button.xml" value="0.4328205128205128" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3801801801801802" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/activity_listado_reserva.xml" value="0.19594594594594594" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/activity_vacio.xml" value="0.209009009009009" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/activity_ver_reserva.xml" value="0.2653153153153153" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/lista1.xml" value="0.3662162162162162" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/lista_mesas.xml" value="0.25" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/qractivity.xml" value="0.25" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/layout/vacio.xml" value="0.21036036036036035" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Jorge Herrera/AndroidStudioProjects/Implementaciondelscanner/app/src/main/res/xml/network_security_config.xml" value="0.2653153153153153" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

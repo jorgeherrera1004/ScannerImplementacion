@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Implementacion del scanner</string>
+    <string name="urlAPI">http://192.168.77.38:3000</string>
+</resources>
